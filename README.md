@@ -1,5 +1,5 @@
 <header>
-  <img src=""/>
+  <img src= "https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif"/>
 </header>
 <h1 align="center">Hi 👋, I'm Pankaj Swami Vaishnav</h1>
 <h5 align="center">
