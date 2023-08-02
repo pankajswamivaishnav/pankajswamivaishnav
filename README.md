@@ -3,7 +3,7 @@
 </header>
 <h1 align="center">Hi 👋, I'm Pankaj Swami Vaishnav</h1>
 <h5 align="center">
-        A passionate 🧑‍💻 Full-Stack-Developer & Prgrammer 💻
+        A passionate Full-Stack-Developer & Prgrammer 💻
   <img
     align="right"
     alt="Coding_Gif"
