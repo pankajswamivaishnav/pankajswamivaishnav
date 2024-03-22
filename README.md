@@ -13,7 +13,7 @@
 
   <p align="left">
     <img
-      src="https://komarev.com/ghpvc/?username=pankaj7073&label=Profile%20views&color=0e75b6&style=flat"
+      src="https://komarev.com/ghpvc/?username=pankajswamivaishnav&label=Profile%20views&color=0e75b6&style=flat"
       alt="pankaj7073"
     />
   </p>
@@ -155,7 +155,7 @@
   <p>
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj7073&show_icons=true&locale=en&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajswamivaishnav&show_icons=true&locale=en&layout=compact"
       alt="pankaj7073"
     />
   </p>
@@ -163,7 +163,7 @@
   <p>
     &nbsp;<img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=pankaj7073&show_icons=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=pankajswamivaishnav&show_icons=true&locale=en"
       alt="pankaj7073"
     />
   </p>
@@ -171,7 +171,7 @@
   <p>
     <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj7073&"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=pankajswamivaishnav&"
       alt="pankaj7073"
     />
   </p>
