@@ -5,12 +5,8 @@
 <h5 align="center">
         A passionate Full-Stack-Developer & Prgrammer 💻 
   <h5/>
-  <img
-    align="right"
-    alt="Coding_Gif"
-    width="400"
-    src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
-  />
+  <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 
   <p align="left">
     <img
@@ -23,7 +19,8 @@
   - 🌱 I’m currently learning **Operating System 🧑‍💻 & ☁️ Cloud Computing**
   - [👨‍💻 Portfolio: After Click Wait 1 Minute](https://pankaj-swami-vaishnav.onrender.com/)
   - 💬 Ask me about **In MERN Technology & C++ Programming**
-  - 📫 How to reach me **pankajvaishnav128@gmail.com**
+  - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/pankaj-swami-vaishnav)
+  
   - [📄 Know about my experiences](https://drive.google.com/file/d/18rX-6KhWniT7d2x3-UXQrfFLfcOj-ljh/view?usp=sharing)
 
   - ⚡ Fun fact **I think I am curious about technology**
@@ -37,6 +34,7 @@
         alt="pankaj_schemer"
         height="40"
         width="40"
+        margin="20"
     /></a>&nbsp;
     <a href="https://linkedin.com/in/pankaj-swami-vaishnav" target="blank"
       ><img
@@ -163,6 +161,7 @@
   <p>
     &nbsp;<img
       align="center"
+      float="left"
       src="https://github-readme-stats.vercel.app/api?username=pankajswamivaishnav&show_icons=true&locale=en"
       alt="pankaj7073"
     />
