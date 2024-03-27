@@ -3,7 +3,8 @@
 </header>
 <h1 align="center">Hi 👋, I'm Pankaj Swami Vaishnav</h1>
 <h5 align="center">
-        A passionate Full-Stack-Developer & Prgrammer 💻
+        A passionate Full-Stack-Developer & Prgrammer 💻 
+  <h5/>
   <img
     align="right"
     alt="Coding_Gif"
@@ -18,14 +19,13 @@
     />
   </p>
 
-  - 🔭 I’m currently working on **To get great opportunity**
+  - 🔭 I’m currently working in **Singhtek Pvt Ltd**
   - 🌱 I’m currently learning **Operating System 🧑‍💻 & ☁️ Cloud Computing**
-  - 👨‍💻 All of my projects are available at
-  - (https://pankaj-swami-vaishnav.onrender.com/)
+  - [👨‍💻 Portfolio: After Click Wait 1 Minute](https://pankaj-swami-vaishnav.onrender.com/)
   - 💬 Ask me about **In MERN Technology & C++ Programming**
   - 📫 How to reach me **pankajvaishnav128@gmail.com**
-  - 📄 Know about my experiences
-  - (https://drive.google.com/file/d/18rX-6KhWniT7d2x3-UXQrfFLfcOj-ljh/view?usp=sharing)
+  - [📄 Know about my experiences](https://drive.google.com/file/d/18rX-6KhWniT7d2x3-UXQrfFLfcOj-ljh/view?usp=sharing)
+
   - ⚡ Fun fact **I think I am curious about technology**
 
   <h3 align="left">Connect with me:</h3>
