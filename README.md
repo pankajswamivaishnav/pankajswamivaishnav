@@ -150,6 +150,8 @@
     </a>
   </p>
 
+<div display= "flex" 
+  justify-content="space-between">
   <p>
     <img
       align="center"
@@ -166,7 +168,7 @@
       alt="pankaj7073"
     />
   </p>
-
+<div/>
   <p>
     <img
       align="center"
@@ -174,4 +176,7 @@
       alt="pankaj7073"
     />
   </p>
-</h5>
+
+
+
+  
