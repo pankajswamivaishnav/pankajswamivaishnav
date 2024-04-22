@@ -21,7 +21,7 @@
   - 💬 Ask me about **In MERN Technology & C++ Programming**
   - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/pankaj-swami-vaishnav)
   
-  - [📄 Know about my experiences](https://drive.google.com/file/d/18rX-6KhWniT7d2x3-UXQrfFLfcOj-ljh/view?usp=sharing)
+  - [📄 Know about my experiences](https://drive.google.com/file/d/1vjimTScDnaym33lGYmg2mZ3qxYToNGKe/view?usp=sharing)
 
   - ⚡ Fun fact **I think I am curious about technology**
 
