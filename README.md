@@ -15,13 +15,13 @@
     />
   </p>
 
-  - 🔭 I’m currently working in **Singhtek Pvt Ltd**
+  - 🔭 I’m currently working in **Inventcolab infotech Pvt Ltd**
   - 🌱 I’m currently learning **Operating System 🧑‍💻 & ☁️ Cloud Computing**
-  - [👨‍💻 Portfolio: After Click Wait 1 Minute](https://pankaj-swami-vaishnav.onrender.com/)
+  - [👨‍💻 Portfolio:](https://pankajswamivaishnav.vercel.app)
   - 💬 Ask me about **In MERN Technology & C++ Programming**
   - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/pankaj-swami-vaishnav)
   
-  - [📄 Know about my experiences](https://drive.google.com/file/d/1vjimTScDnaym33lGYmg2mZ3qxYToNGKe/view?usp=sharing)
+  - [📄 Know about my experiences](https://drive.google.com/file/d/1bg6ouO916jpD7kT-WdlpRMemc0Fq0l5V/view?usp=sharing)
 
   - ⚡ Fun fact **I think I am curious about technology**
 
