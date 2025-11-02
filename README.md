@@ -17,7 +17,7 @@
 
   - 🔭 I’m currently working in **Inventcolab infotech Pvt Ltd**
   - 🌱 I’m currently learning **Operating System 🧑‍💻 & ☁️ Cloud Computing**
-  - [👨‍💻 Portfolio:](https://pankajswamivaishnav.vercel.app)
+  - [👨‍💻 Portfolio](https://pankajswamivaishnav.vercel.app)
   - 💬 Ask me about **In MERN Technology & C++ Programming**
   - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/pankaj-swami-vaishnav)
   
